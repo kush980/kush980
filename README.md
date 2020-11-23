@@ -13,13 +13,6 @@
 [<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 <br />
----
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="Kushagr's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=kush980&show_icons=true&hide_border=true" />
-
-</details>
 
 [twitter]: https://twitter.com/KushagrSingh8
 [instagram]: https://www.instagram.com/kush_ks980/
