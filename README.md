@@ -3,7 +3,7 @@
 ## I'm an average coder and love to work on Machine learning!!
 
 -  I’m currently learning everything 
--  I’m looking to collaborate with other content creators 
+-  I’m looking to collaborate with other developers
 -  Fun fact: I love  play guitar and watch movie/web series
 
 ### Let's get in touch:
