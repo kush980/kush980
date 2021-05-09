@@ -1,6 +1,4 @@
-### Hello, I'm Kushagr Singh - in short Kush 👋
-
-## I'm an average coder and love to work on Machine learning!!
+### Hello, I'm Kushagr Singh 
 
 -  I’m currently learning everything 
 -  I’m looking to collaborate with other developers
