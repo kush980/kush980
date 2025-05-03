@@ -1,8 +1,9 @@
 ### Hello, I'm Kushagr Singh 
 
--  I’m currently learning everything 
--  I’m looking to collaborate with other developers
--  Fun fact: I love  play guitar and watch movie/web series
+-  I am a Software Developer @Accenture
+-  Still upskilling myself in open source world
+-  looking to collaborate with other developers
+-  Fun fact: I love to play guitar and watch movie/web series
 
 ### Let's get in touch:
 
