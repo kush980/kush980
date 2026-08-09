@@ -1,18 +1,14 @@
-### Hello, I'm Kushagr Singh 
+# Hi, I'm Kushagr 👋
 
--  I am a Software Developer @Accenture
--  Still upskilling myself in open source world
--  looking to collaborate with other developers
--  Fun fact: I love to play guitar and watch movie/web series
+Software Engineer @ Accenture building web applications and backend services.
 
-### Let's get in touch:
+- 💻 Full Stack & Backend Development
+- ⚙️ Java, Spring Boot, Angular, React, Node.js
+- ☁️ AWS, Terraform & CI/CD
+- 🧠 Interested in scalable systems, clean architecture and developer tooling
+- 🚀 Currently exploring and building with modern backend and cloud technologies
+- 🤝 Open to contributing to meaningful open-source projects
 
-[<img align="left" alt="kush980 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="kush980 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="kush980 | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+### Connect
 
-<br />
-
-[twitter]: https://twitter.com/KushagrSingh8
-[instagram]: https://www.instagram.com/kush_ks980/
-[linkedin]: https://www.linkedin.com/in/kushagr-singh-04555a1ab/
+[LinkedIn](https://www.linkedin.com/in/kushagr-singh-r) • [Portfolio](https://kushstudio.github.io/Socials/)
